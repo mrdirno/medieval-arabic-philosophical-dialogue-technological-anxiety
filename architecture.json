@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-philosophical-dialogue-technological-anxiety",
+  "title": "The Compass of Premises",
+  "tagline": "In a world of mechanical minds and soulless scribes, a physician must defend the sacred, silent labor of human thought before it is lost forever.",
+  "target_words": 74337,
+  "actual_words": 74337,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Soul of Craft vs. The Efficiency of Machine",
+    "The Anxiety of Obsolescence in the Face of Technology",
+    "The Nature of Thought and the Danger of Its Automation",
+    "Memory, Permanence, and the Loss of the Ephemeral"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Patient Expectation of Ink",
+      "words": 6757
+    },
+    {
+      "ch": 2,
+      "title": "A Symphony of Scratches",
+      "words": 6757
+    },
+    {
+      "ch": 3,
+      "title": "The Soulless Library",
+      "words": 6757
+    },
+    {
+      "ch": 4,
+      "title": "The Silent Story of Paper",
+      "words": 6757
+    },
+    {
+      "ch": 5,
+      "title": "The Woolen Disguise",
+      "words": 6757
+    },
+    {
+      "ch": 6,
+      "title": "The First Guardian: A Dense Silence",
+      "words": 6757
+    },
+    {
+      "ch": 7,
+      "title": "The Scarred Silence of a Journal",
+      "words": 6757
+    },
+    {
+      "ch": 8,
+      "title": "A Path of Hardened Shadow",
+      "words": 6757
+    },
+    {
+      "ch": 9,
+      "title": "The Foundational Silence",
+      "words": 6757
+    },
+    {
+      "ch": 10,
+      "title": "A Listening Land",
+      "words": 6757
+    },
+    {
+      "ch": 11,
+      "title": "The Dissolution of the Self",
+      "words": 6757
+    }
+  ]
+}
